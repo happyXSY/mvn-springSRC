@@ -118,7 +118,7 @@ import org.springframework.util.StringUtils;
  * @author Administrator
  * 
  * 核心类DefaultListableBeanFactory
- *
+ *综合上面所有功能，主要是对Bean注册后的处理
  */
 @SuppressWarnings("serial")
 public class DefaultListableBeanFactory extends AbstractAutowireCapableBeanFactory

@@ -107,6 +107,13 @@ import org.springframework.core.ResolvableType;
  * @see org.springframework.beans.factory.config.BeanPostProcessor#postProcessAfterInitialization
  * @see DisposableBean#destroy
  * @see org.springframework.beans.factory.support.RootBeanDefinition#getDestroyMethodName
+ *  
+
+ */
+/**
+ * 定义获取bean及bean的各种属性
+ * @author Administrator
+ *
  */
 public interface BeanFactory {
 

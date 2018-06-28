@@ -74,7 +74,16 @@ import org.springframework.util.xml.XmlValidationModeDetector;
  * @see org.springframework.beans.factory.support.DefaultListableBeanFactory
  * @see org.springframework.context.support.GenericApplicationContext
  */
+/**
+
+ * 
+ * @author Administrator
+ *
+ */
 public class XmlBeanDefinitionReader extends AbstractBeanDefinitionReader {
+	
+	
+	
 
 	/**
 	 * Indicates that the validation should be disabled.
