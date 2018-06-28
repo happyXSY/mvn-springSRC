@@ -32,5 +32,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="libs/spring-cglib-repack-3.6.jar"/>
+	<classpathentry kind="lib" path="libs/spring-objenesis-repack-2.6.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

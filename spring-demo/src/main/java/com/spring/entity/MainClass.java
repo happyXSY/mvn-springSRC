@@ -15,7 +15,6 @@ public class MainClass {
 	
 	
 	@Test
-	@Ignore
 	public void testSpring() {
 		BeanFactory bf=new XmlBeanFactory(new ClassPathResource("ioc.xml"));
 		Employee em=(Employee)bf.getBean("employee");
