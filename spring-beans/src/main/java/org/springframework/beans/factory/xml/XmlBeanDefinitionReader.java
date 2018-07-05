@@ -76,7 +76,7 @@ import org.springframework.util.xml.XmlValidationModeDetector;
  */
 /**
 
- * 
+ * Xml配置文件的读取是spring中重要的功能，因为Spring的大部分功能都是以配置作为切入点
  * @author Administrator
  *
  */

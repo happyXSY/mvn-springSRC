@@ -40,6 +40,10 @@ import org.springframework.util.StringUtils;
  * @see ClassLoader#getResourceAsStream(String)
  * @see Class#getResourceAsStream(String)
  */
+/**
+ * @author Administrator
+ *
+ */
 public class ClassPathResource extends AbstractFileResolvingResource {
 
 	private final String path;
